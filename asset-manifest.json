@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pqsmva/css-module-timer/static/css/main.f647b687.css",
-    "main.js": "/pqsmva/css-module-timer/static/js/main.0cab9b63.js",
-    "index.html": "/pqsmva/css-module-timer/index.html",
-    "main.f647b687.css.map": "/pqsmva/css-module-timer/static/css/main.f647b687.css.map",
-    "main.0cab9b63.js.map": "/pqsmva/css-module-timer/static/js/main.0cab9b63.js.map"
+    "main.css": "/css-module-timer/static/css/main.f647b687.css",
+    "main.js": "/css-module-timer/static/js/main.0cab9b63.js",
+    "index.html": "/css-module-timer/index.html",
+    "main.f647b687.css.map": "/css-module-timer/static/css/main.f647b687.css.map",
+    "main.0cab9b63.js.map": "/css-module-timer/static/js/main.0cab9b63.js.map"
   },
   "entrypoints": [
     "static/css/main.f647b687.css",
