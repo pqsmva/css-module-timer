@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pqsmva/css-module-timer/static/css/main.f647b687.css",
+    "main.js": "/pqsmva/css-module-timer/static/js/main.0cab9b63.js",
+    "index.html": "/pqsmva/css-module-timer/index.html",
+    "main.f647b687.css.map": "/pqsmva/css-module-timer/static/css/main.f647b687.css.map",
+    "main.0cab9b63.js.map": "/pqsmva/css-module-timer/static/js/main.0cab9b63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f647b687.css",
+    "static/js/main.0cab9b63.js"
+  ]
+}
